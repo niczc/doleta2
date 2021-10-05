@@ -1,5 +1,6 @@
 requests
 python-telegram-bot
+PyTelegramBotAPI==2.2.3
 telebot
 datetime
 bs4
