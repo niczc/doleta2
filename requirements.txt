@@ -3,3 +3,4 @@ python-telegram-bot
 telebot
 datetime
 bs4
+emoji
