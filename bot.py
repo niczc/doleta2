@@ -3,10 +3,9 @@ from datetime import datetime
 import threading
 import time
 import teoric
-import config
 
 
-bot = telebot.TeleBot(config.TOKEN)
+bot = telebot.TeleBot('1595466561:AAFPU9UkZGG-ZC-OOXQld0L2w5A8NPmOpqI')
 
 @bot.message_handler(commands=['start'])
 def start_menu(message):
