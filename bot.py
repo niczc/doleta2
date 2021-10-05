@@ -1,6 +1,4 @@
 import telebot
-from telebot import types
-from telebot import util, types
 from datetime import datetime
 import threading
 import time
