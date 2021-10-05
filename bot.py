@@ -1,6 +1,8 @@
 import telebot
 from datetime import datetime
 import threading
+from telebot import types
+from telebot import util, types
 import time
 import teoric
 
